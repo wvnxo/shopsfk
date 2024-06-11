@@ -1,0 +1,12 @@
+[
+  {
+    "id": "قوانين 1",
+    "title": "قوانين السيرفر",
+    "description": "data/file1.txt"
+  },
+  {
+    "id": "قوانين 2",
+    "title": "قوانين المتاجر",
+    "description": "data/file2.txt"
+  }
+]
